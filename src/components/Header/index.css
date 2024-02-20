@@ -1,0 +1,29 @@
+.nav-bar{
+    padding: 15px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 4px 16px 0px #e3ebed;
+}
+.nav-items-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+.nav-items{
+    font-family: sans-serif;
+    margin-right: 9px;
+}
+.nav-sub-items{
+    display: flex;
+    align-items: center;
+}
+.nav-button{
+    border: 1px solid lightblue;
+    color: lightblue;
+    padding: 7px;
+    border-radius: 6px;
+    background-color: transparent;
+}

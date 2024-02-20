@@ -1,0 +1,33 @@
+.sub-card-section-container{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.card-items-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.un-list-items{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-head{
+    color: gray;
+    font-family: sans-serif;
+}
+.card-para{
+    color: gray;
+    font-family: sans-serif;
+}
+@media only screen and (min-width:767px){
+    .sub-card-section-container{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .card-section-container{
+        padding: 10px;
+    }
+}

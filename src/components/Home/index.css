@@ -1,0 +1,45 @@
+@media only screen and (max-width:767px){
+    .sub-home-bg-container{
+        min-height: 90vh;
+    }
+    .banner-section{
+        background-image: linear-gradient(to left, rgb(91, 91, 243),pink);
+        padding:10px;
+        text-align: center;
+        color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .banner-button{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: black;
+        background-color: white;
+        padding: 10px;
+        border: none;
+        border-radius: 10px;
+    }
+}
+
+@media only screen and (min-width:768px){
+    .sub-home-bg-container{
+        min-height: 90vh;
+    }
+    .banner-section{
+        background-image: linear-gradient(to left, rgb(91, 91, 243),pink);
+        padding:10px;
+        text-align: center;
+        color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .banner-button{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: black;
+        background-color: white;
+        padding: 10px;
+        border: none;
+        border-radius: 10px;
+    }
+}
